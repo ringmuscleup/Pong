@@ -1,0 +1,29 @@
+body {
+	background-color: #808080;
+}
+
+
+#gameCanvas {
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+	margin-top: 75px;}
+
+#border {width: 820px;
+background: black;
+padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+margin-top: 75px;}
+
+.container {
+	margin: 50px auto 0;
+	display: block;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+
+}
