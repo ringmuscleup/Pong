@@ -27,3 +27,13 @@ margin-top: 75px;}
 	font-family: 'Press Start 2P', cursive;
 
 }
+@media only screen and ( max-width: 800px ) {
+   canvas {
+    width: 400px;
+    height: 300px;
+   }
+
+   #border {
+    width: 410px;
+   }
+}
